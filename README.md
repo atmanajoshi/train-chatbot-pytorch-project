@@ -1,2 +1,2 @@
 # train-chatbot-pytorch-project
-Training a Chatbot using PyTorch
+Trained a simple chatbot using recurrent seq-to-seq model and movie scripts from the Cornell Movie Dialogs Corpus based on the PyTorch Chatbot Tutorial. Followed the tutorial, implemented the code, and trained and evaluated the Chatbot model. To optimize model performance experimented with different combinations of hyperparameters such as clip, teacher_forcing_ratio, and attn_model, and reported the results and rationale.
